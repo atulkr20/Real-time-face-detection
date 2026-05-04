@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+mediapipe
+Pillow
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-multipart
+websockets
+numpy
+opencv-python-headless
